@@ -54,7 +54,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/Sanji910"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
