@@ -1,0 +1,16 @@
+
+---- Update case----
+
+git add .
+git commit -m "xxx"
+git push
+
+---- Create case----
+
+git clone http://...
+git init
+git add .
+git commit -m "xxx"
+git branch -M main
+git remote add origin http://...
+git push
